@@ -98,10 +98,10 @@ To ensure high data accuracy:
 
 ## 📌 Author
 **Elisa Martiana Dewi**  
-Remote Data Entry Enthusiast / Freelancer  
+Data Entry Enthusiast 
 elisa.martiana.dewi1301@gmail.com  
-[My LinkedIn Profile](https://www.linkedin.com/in/elisa-martiana-dewi1301/) 
-[GitHub](#)
+[My LinkedIn Profile](https://www.linkedin.com/in/elisa-martiana-dewi1301/)          
+[My GitHub Profile](https://github.com/elisamdw1301)
 
 ---
 
