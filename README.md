@@ -97,9 +97,9 @@ To ensure high data accuracy:
 ---
 
 ## 📌 Author
-**Elisa Martiana Dewi**  
-Data Entry Enthusiast 
-elisa.martiana.dewi1301@gmail.com  
+**Elisa Martiana Dewi**           
+Data Entry Enthusiast              
+elisa.martiana.dewi1301@gmail.com         
 [My LinkedIn Profile](https://www.linkedin.com/in/elisa-martiana-dewi1301/)          
 [My GitHub Profile](https://github.com/elisamdw1301)
 
