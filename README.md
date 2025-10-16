@@ -78,8 +78,8 @@ To ensure high data accuracy:
 | File                            | Description                                       | Link |
 |---------------------------------|---------------------------------------------------|---------------- |
 | `raw_data.pdf`                  | Dummy dataset source (PDF, 100 rows)              | [See the table](https://drive.google.com/file/d/1wLiC-IoMwC90UdaTBnef-A58EaZrZym3/view?usp=sharing) |
-| `manual_data_entry.csv`         | The result of manual data entry, before cleaning  | [See the table]() | 
-| `cleaned_data_final.xlsx`       | Final cleaned dataset, ready for use              | [See the table](https://docs.google.com/spreadsheets/d/13atDfoFfYOcI8OQu4fWFTuT6p3n7v5zo/edit?usp=sharing&ouid=101185424288016451803&rtpof=true&sd=true) or [Download file]() |
+| `manual_data_entry.csv`         | The result of manual data entry, before cleaning  | [See the table](data/02_manual_data_entry.csv) | 
+| `cleaned_data_final.xlsx`       | Final cleaned dataset, ready for use              | [See the table](https://docs.google.com/spreadsheets/d/13atDfoFfYOcI8OQu4fWFTuT6p3n7v5zo/edit?usp=sharing&ouid=101185424288016451803&rtpof=true&sd=true) or [Download file](data/03_cleaned_data_final.xlsx) |
 | `superstore_data_entry_project` | Sheet 1 : raw_data                                | [See the table](https://docs.google.com/spreadsheets/d/10G_UGdhbpiiDNO0kkxiHV3qmrgS8DRpXKDiTo1uFcIQ/edit?usp=sharing) |
 |                                 | Sheet 2 : cleaned_data                            | |
 |                                 | Sheet 3 : validation_notes                        | |
