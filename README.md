@@ -17,11 +17,11 @@ The goal is to demonstrate:
 ## 🧠 Tools & Skills Used
 | Tools                 | Used                                                          |
 |---------------------- | --------------------------------------------------------------|
-| **Google Sheets**     | manual entry, formatting, cleaning, and validation            |  
-| **PDF**               | source file for data entry                                    |
-| **Excel (.xlsx)**     |final cleaned dataset                                          |
+| **Google Sheets**     | Manual entry, formatting, cleaning, and validation            |  
+| **PDF**               | Source file for data entry                                    |
+| **Excel (.xlsx)**     | Final cleaned dataset                                          |
 | **Formulas**          | `PROPER`, `ISNUMBER`, `IF`, `FILTER`, `EXACT`, `LEN`, `UPPER` |
-| **Markdown (README)** | documentation on GitHub                                       |
+| **Markdown (README)** | Documentation on GitHub                                       |
 
 ---
 
@@ -51,9 +51,9 @@ After formatting, several validation checks were performed to ensure data consis
 |-----------------------|-----------------------------------------------|------------------------------------------------|
 | Duplicate Check       | Identify exact duplicate rows                 | 6 duplicates found                             |
 | Empty Cell Check      | Ensure no critical fields were blank          | 5 cells with empty values detected             |
-| Date Consistency      | Ship Date must be ≥ Order Date                | no error detected                              |
-| Numeric Validation    | Quantity > 0                                  | no error detected                              |
-| Text Formatting       | Check for inconsistent casing                 | cleaned using PROPER                           |
+| Date Consistency      | Ship Date must be ≥ Order Date                | No error detected                              |
+| Numeric Validation    | Quantity > 0                                  | No error detected                              |
+| Text Formatting       | Check for inconsistent casing                 | Cleaned using PROPER                           |
 
 Detailed findings and actions are documented in the **Validation_Notes** tab inside the Google Sheets file.
 
@@ -97,11 +97,10 @@ To ensure high data accuracy:
 ---
 
 ## 📌 Author
-**Elisa Martiana Dewi**           
-Data Entry Enthusiast              
-elisa.martiana.dewi1301@gmail.com         
-[My LinkedIn Profile](https://www.linkedin.com/in/elisa-martiana-dewi1301/)          
-[My GitHub Profile](https://github.com/elisamdw1301)
+🧾 **Elisa Martiana Dewi**     |      Data Entry Enthusiast          
+📧 Email     : elisa.martiana.dewi1301@gmail.com  
+🔗 LinkedIn  : [linkedin.com/in/elisa-martiana-dewi1301](https://www.linkedin.com/in/elisa-martiana-dewi1301/)   
+💻 GitHub    : [github.com/elisamdw1301](https://github.com/elisamdw1301)
 
 ---
 
